@@ -11,22 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    # 1. GitHub deposundaki kodlari sanal makineye cek
     - name: Depoyu Cek (Checkout)
       uses: actions/checkout@v4
 
-    # 2. Python ortamini hazirla
     - name: Python Kurulumu
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    # 3. C# (Mono) ortamini hazirla
     - name: C# (Mono) Kurulumu
       run: |
         sudo apt-get update
         sudo apt-get install -y mono-complete
 
-    # 4. Testleri Calistir
-    - name: Testleri Baslat
-      run: python3 lab50-v6.py tests
+    - name: Test Dosyasini Indir ve Baslat
+      run: |
+        mkdir -p tests
+        # Senin Gist linkinden güncel testi indiriyoruz:
+        wget -O tests/__init__.py https://gist.githubusercontent.com/Aleynasimsek/a58a16fa2adfbbbde27e907574ed0fbb/raw/0d3ebc3dd7e8375f740e757fef3bf759bc73495c/__init__.py
+        python3 lab50-v6.py tests
