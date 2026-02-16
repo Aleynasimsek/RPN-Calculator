@@ -7,3 +7,14 @@
 02/06/2026 08:41:33: Sıfıra bölme hatası!
 02/06/2026 08:41:33: Eksik operand hatası!
 02/06/2026 08:41:33: Tanımsız operatör: &
+02/16/2026 08:18:11: Sıfıra bölme hatası!
+02/16/2026 08:18:11: Eksik operand hatası!
+02/16/2026 08:18:11: Tanımsız operatör: &
+02/16/2026 08:19:17: Tanımsız operatör: 0/
+02/16/2026 08:19:33: Fazla operand/eksik operatör hatası!
+02/16/2026 08:24:08: Sıfıra bölme hatası!
+02/16/2026 08:24:08: Eksik operand hatası!
+02/16/2026 08:24:08: Tanımsız operatör: &
+02/16/2026 15:11:43: Sıfıra bölme hatası!
+02/16/2026 15:11:44: Eksik operand hatası!
+02/16/2026 15:11:44: Tanımsız operatör: &

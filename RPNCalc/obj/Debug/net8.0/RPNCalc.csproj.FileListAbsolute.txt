@@ -1,0 +1,15 @@
+/workspaces/RPN-Calculator/RPNCalc/bin/Debug/net8.0/RPNCalc
+/workspaces/RPN-Calculator/RPNCalc/bin/Debug/net8.0/RPNCalc.deps.json
+/workspaces/RPN-Calculator/RPNCalc/bin/Debug/net8.0/RPNCalc.runtimeconfig.json
+/workspaces/RPN-Calculator/RPNCalc/bin/Debug/net8.0/RPNCalc.dll
+/workspaces/RPN-Calculator/RPNCalc/bin/Debug/net8.0/RPNCalc.pdb
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.AssemblyInfoInputs.cache
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.AssemblyInfo.cs
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.csproj.CoreCompileInputs.cache
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.sourcelink.json
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.dll
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/refint/RPNCalc.dll
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.pdb
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/RPNCalc.genruntimeconfig.cache
+/workspaces/RPN-Calculator/RPNCalc/obj/Debug/net8.0/ref/RPNCalc.dll
