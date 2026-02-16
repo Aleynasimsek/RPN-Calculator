@@ -22,7 +22,7 @@ jobs:
     - name: C# (Mono) Kurulumu
       run: |
         sudo apt-get update
-        sudo apt-get install -y mcs
+        sudo apt-get install -y mono-complete
 
     - name: Test Dosyasini Indir ve Baslat
       run: |
