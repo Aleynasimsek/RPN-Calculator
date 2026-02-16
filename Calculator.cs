@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace RPNCalculator
+namespace RPNCalculator 
 {
     // --- 1. SOYUT OPERATOR SINIFI VE ALT SINIFLAR ---
     public abstract class Operator
