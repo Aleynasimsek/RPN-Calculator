@@ -1,7 +1,7 @@
 {
     "build": {
         "args": {
-            "TAG": latest
+            "TAG": ubuntu-latest
         },
         "context": ".",
         "dockerfile": "Dockerfile"
@@ -71,6 +71,8 @@
     "forwardPorts": [5432],
     "postCreateCommand": "bash .devcontainer/setup.sh",
     "postStartCommand": "sudo service postgresql start",
+    "postStartCommand": "sudo apt install -y gcc mcs",
+
     "mounts": [
         {
             "source": "/var/run/docker.sock",
